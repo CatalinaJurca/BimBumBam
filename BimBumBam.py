@@ -19,3 +19,4 @@ def joc_bim_bum_bam():
             print("Ai pierdut!")
 
 print(joc_bim_bum_bam())
+print("adaugat in github")
